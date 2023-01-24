@@ -1,0 +1,44 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: #40433F;
+    color: white;
+}
+
+.formulario{
+    text-align: center;
+    background-color: #848882;
+    border-radius: 10px;
+}
+
+h3{
+    padding-top: 1rem;
+    margin-bottom: 3px;
+}
+
+h4{
+    margin-bottom: 3px;
+}
+
+button{
+    margin-top: 2rem;
+    background-color: #56CED3;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 40px;
+}
+
+.result{
+    padding-bottom: 1rem;
+}
+
+input, button, select{
+    padding: 5px;
+    border-radius: 5px;
+}
+
